@@ -1,3 +1,4 @@
 syntax: glob
 
+bower_components
 node_modules
